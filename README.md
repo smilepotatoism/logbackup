@@ -20373,6 +20373,3274 @@ img.avatar, .avatar-fallback{
     <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
     <div class="plog-content">(당신에게서 받은 드라이버를 여전히 꼭 쥔 채로.)</div>
   </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">【31：경계의 시간】</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">창문으로 불어오는 바람이 뺨을 스친다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">얼마나 시간이 흘렀을까— 린토와 이자요이는 피로 탓인지 잠시 의식을 잃었던 듯하다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">어두운 실내를 비추듯, 커튼 틈 사이로 부드러운 석양이 스며든다</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">두 사람이 깨어난 것을 알아챈 걸까, 이자요이의 입이 저절로 움직인다.</div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">일어났군.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">개조는 성공적으로 끝났다. 저 녀석 상태도 제법 안정적이고.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0f19ae4c9fd53b23059c89979c208e5d07c0bb41e6c58423ebeb79a5fd6d415b?t=1782231527590" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(눈을 비빈다.) 아, 다행이다⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/7d1c4779405fec3bd947ecc3c76df6cf8eade661633fc08c0736faa6aab5ba47?t=1782476215831" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(아직 머리가 무겁다. 흘러내리는 머리칼을 대충 걷어낸다.) 그건 참 다행이군..</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0f19ae4c9fd53b23059c89979c208e5d07c0bb41e6c58423ebeb79a5fd6d415b?t=1782231527590" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">으으으⋯⋯. (천천히 몸을 일으켜 기지개를 켜고.) 잠깐, 벌써 저녁?</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6336db07accefe635c32c2b73a077c084d975951ff6d179a7431c430854e1b37?t=1782231535847" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">이렇게 오래 잘 생각은 아니었는데!</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/17e8db2a97b1b28651e8cdd93bff691866203cf2a41926597d23dc91bd56f36f?t=1782824651777" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 그새 뭔가 일이 터지진 않았겠지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/17e8db2a97b1b28651e8cdd93bff691866203cf2a41926597d23dc91bd56f36f?t=1782824651777" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(혹시 몰라 인터넷 기사를 다시금 검색해 본다.)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6336db07accefe635c32c2b73a077c084d975951ff6d179a7431c430854e1b37?t=1782231535847" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">무슨 일이 있었다면 네가 깨워졌을 거라고 믿어. 그렇지, 친구⋯? (집안 풍경은 잠들기 전과 달라진 게 없을까?)</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">인터넷에서는 여전히 도쿄도립 아리부 병원 습격 사건에 대한 보도가 이어지고 있으며,<br>도쿄 인근 도로에는 여러 개의 검문소가 설치된 듯하다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">행동을 개시할 경우, 차량 이동은 피하는 것이 좋을 것 같다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">시계를 보면 오후 5시 부근, 시간이 늦어진 것 이외에는 별 다른 이상사항은 보이지 않는다.</div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">그래, 지금까지는 별 문제 없었다만⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">⋯이제 어떻게 할 거야?</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">이대로 도망치며 여생을 보낼 건가, 형사로서 진상을 밝혀내고 흑막을 잡을 건가.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">너희들의 생각을 들려줘.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6336db07accefe635c32c2b73a077c084d975951ff6d179a7431c430854e1b37?t=1782231535847" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 도망치기만 해선 해결되는 것이 아무 것도 없잖나.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">삶의 목표에 대해선 이미 자네와 한 차례 이야기를 나누었었지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">결말이 어떻게 되던지, 본관은 후자다. (흔들림 없는 얼굴로 이자요이를 응시한다.) 몸이 바뀌고 상황이 바뀐대도 이 마음에는 변함이 없어.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯사실 이렇게 반장님과 함께 도망쳐 오면서, 회의감에 젖지 않았다면 거짓말이에요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">운명을 무릎 꿇리겠다고⋯⋯, 예정된 죽음이라도 피해 보자고 직접 말한 건 저였지만.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">사실 저한테는 그 중 무엇도 해낼 힘이 없었으니까요. 그냥⋯⋯, 휘둘리기만 할 뿐이었죠, 계속⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯그래도 언제까지고 피할 수만은 없다는 말만큼은, 저도 동의해요. 반장님도, 세입자에게도 목표가 있듯 저도 마찬가지니까.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">제 목표는 소중한 사람들을 지키는 사람이 되는 거예요. (구한다, 까지는 너무 무겁다. 너무 어렵고. 하지만⋯) ⋯설령 내가 그러기에 부족한 존재라고 할지라도, 형사로서 계속 살아간다면⋯⋯, 어떤 선택에도 후회를 남겨서는 안 되겠죠.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0f19ae4c9fd53b23059c89979c208e5d07c0bb41e6c58423ebeb79a5fd6d415b?t=1782231527590" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯하지만 반장님과 다른 게 있다면. (엷게 미소짓는다. 어딘가 씁쓸해 보이기도 한다.) 제게는 결말도 아주 중요하다는 거겠네요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0f19ae4c9fd53b23059c89979c208e5d07c0bb41e6c58423ebeb79a5fd6d415b?t=1782231527590" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">발버둥쳐 봐요. 살기 위해서, 미래를 구하기 위해서. (나는 어디까지고 당신의 뒤를 따라갈 테니까.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(진중한 눈매에 부드러운 미소가 겹친다.) 그래. 좋은 각오다.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">이제야 정수리에서 솜털이 좀 빠져가는 듯 하군. (이자요이의 머리를 성의없이 쓰다듬었다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">그렇다면, 갈 곳은 짐작이 가나?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1cc35185478641b48cd088a4060d05fae4f6c35048370ea1146c798ffc75e103?t=1782231536992" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(머리가 엉망이 되는데도 마냥 좋아서 웃는다.) 그것참 듣기 반가운 말씀이네요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6336db07accefe635c32c2b73a077c084d975951ff6d179a7431c430854e1b37?t=1782231535847" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(저도 모르게 머리를 살짝 더 가까이 대면서 곰곰이 생각.) ⋯⋯개인적으로야, 내내 연락 두절 상태인 시온을 가장 먼저 찾아가고 싶은데요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯저 기록만 남기고 사라지신 키리시마 씨는 어디에 있을까요?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">그건, 본관으로서도 예측할 수가 없군.. (질끈.) 대체 어디로 뛰쳐나갔을지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">본인을 부리는 뒷사람에게 간 걸까.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/f12cff106de3f4b89f854e20197b2f3c82a445f8562b6049adf4bf1fce5e6f80?t=1782231536164" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯. (표정이 우울해진다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/f12cff106de3f4b89f854e20197b2f3c82a445f8562b6049adf4bf1fce5e6f80?t=1782231536164" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">후카기 스오, 그 사람이 어디 있는지 알아내야 할 텐데 말이에요⋯. 폐쇄된 아리부 병원에 아직도 남아 있지는 않을 것 아니에요.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(아리부 병원. 그 이름을 듣자 하니 떠오르는 것이 있다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 이자요이 군. 본관이 최근 아주 지독한 꿈을 꾸는데 말이다.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/27bdb031b32df42d1ead0ae37934f524c9492e24c5abc9c338cc3f2ddf4ada44?t=1782231526747" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">네. ⋯⋯(드디어 나도 그 이야기를 조금은 들을 수 있는 건가? 시선이 떨린다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(떨리는 눈을 마주하자 저도 모르게 시선을 피하고 만다. 사소한 서술은 잘라내고 곧바로 요점에 들어갔다.) 언제 한 번은 그 꿈 속에서 아리부 병원에 가 본 적이 있어.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">깊숙한 곳에 위치한 어떤 문 안쪽에서 장치를 하나 봤지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">'시간 통신기'. 세입자 군이 찾아 해메던 것.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">아마도 그게 아리부 병원에 있지 않을까 싶군. ... 증거는 이 허무맹랑한 꿈 속 광경 뿐이지만.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(그 꿈이 그토록 당신을 괴롭게 한 이유가 있었을 텐데. ⋯⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(⋯언제나 그랬지. 당신은 반드시 필요한 것 외에는 아무것도 말하지 않는 사람이었다. 지금도 마찬가지일 뿐이다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯그렇구나.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">하지만⋯, 꿈속에서 본 것이라 해도 단순한 망상은 아닐지도 몰라요. 저도 짚이는 게 있기도 하고요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">네가 말한 전이에 필요한 장치라는 게, 그 '시간 통신기'가 맞는 거지? 세입자.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">그래, 그 물건이 아리부 병원에 있을 거란 생각은 못 했다만.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">어쩌면 정말로 돌아갈 수 있을지도 모르겠어. (안도 어린 한숨이 새어나온다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">그리고 말이다. 후카기 스오가 이 사건에 어떻게 관련되어 있는지는 모르겠지만, 무언가 실마리를 쥐고 있는 건 확실하다고 생각하거든.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">자꾸만 불길한 예감이 들어. 그 사람이 지금도 배후에서 사건을 전부 조종하고 있을지도 모른다고⋯⋯. (옷자락을 꾹 쥔다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">그런데, ⋯⋯장치를 찾아낸 다음엔?</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(끄덕.) 설마 자네만 돌아가고, 후에 우린 나몰라라하며 버리는 건 아니겠지.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">그래, 반장님은 어떻게 되는데. ⋯인간으로 되돌릴 방법을 찾아야 하잖아.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">너도, 육체 없이 떠도는 게 위험하다고 했었고.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">걱정 마, 책임감 없이 떠나지는 않을 거니까. 나에게도 생각이 있어.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">아직은 확정할 수 없는 부분이라 자세히 설명하기는 어렵군. 하지만, 우리 말이다. 이 정도 신뢰는 가질 수 있는 사이지?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(귀 후비적.) 그랬었나.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">이자요이 군, 자네는? (흘긋 보고.)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/4fa5c2f413d63aa9ca1c8f9c36f514bfd51db9dd6906befa36d6eb9eddcc8813?t=1782231527184" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯ (시치미.) 그랬었나?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">알아서들 생각하든가. 아주 좋다고들 둘이서 놀 때는 언제고.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">나 참.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(히죽, 짓궂은 미소가 곧 웃음으로 번진다.) 큽, 푸하하하하⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1cc35185478641b48cd088a4060d05fae4f6c35048370ea1146c798ffc75e103?t=1782231536992" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯풉.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1cc35185478641b48cd088a4060d05fae4f6c35048370ea1146c798ffc75e103?t=1782231536992" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">농담이야, 농담~.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">⋯⋯⋯⋯⋯⋯⋯⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">그래. 믿는다, 믿어! (이자요이 등을 손바닥으로 몇 번 내리쳤다. 팡- 팡-)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/27bdb031b32df42d1ead0ae37934f524c9492e24c5abc9c338cc3f2ddf4ada44?t=1782231526747" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">하하하하, 분명히 서로 도와주기로 약속도, ⋯⋯커헉!</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">지금까지 자네 나름대로 노력해주었으니까.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">본관은 말이지, 본관에게 호감을 가진 사람은 귀신같이 알아본다고? (제 눈가를 손가락으로 두드린다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">세입자 군은 본관을 꽤 좋아하며 따르고 있다. 그게 관측의 결론이야.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">그 성의에 보답해 주어야 인지상정 아니겠나.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/01cab224694d8ad911b967ae7451cf9ad69de65ae21904d6d872ac4ec4679b9a?t=1782231536977" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯뭔가 좀 열 받지, 그치? (소곤.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">혹시 기억 안 나나? 내가 말한 것. (린토 어깨 가볍게 두드린다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">"너는, 영 마음에 들지가 않는군. 정신 좀 차려." 라고⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">아무래도 잊은 것 같으니 한 번 강조하고자 말해봤어. 자, 그럼 갈까. (방긋 웃으며 바깥으로 향하는 문 연다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/01cab224694d8ad911b967ae7451cf9ad69de65ae21904d6d872ac4ec4679b9a?t=1782231536977" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯으학, (세입자의 말이 끝나자마자 이상한 웃음소리가 튀어나온다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1cc35185478641b48cd088a4060d05fae4f6c35048370ea1146c798ffc75e103?t=1782231536992" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">아하하하하하하하⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(흐음.) 튕기기는.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">"우린 제법 가까워 보인다" 며 꼬신게 누구였더라⋯⋯. (열린 문으로 먼저 빠져나간다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/27bdb031b32df42d1ead0ae37934f524c9492e24c5abc9c338cc3f2ddf4ada44?t=1782231526747" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯이럴 수가!</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/27bdb031b32df42d1ead0ae37934f524c9492e24c5abc9c338cc3f2ddf4ada44?t=1782231526747" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">저도 분발해야겠네요⋯⋯. (미간을 좁힌다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0f19ae4c9fd53b23059c89979c208e5d07c0bb41e6c58423ebeb79a5fd6d415b?t=1782231527590" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(가야 할 앞길은 험하지만 동료의 신뢰를 확인해서인지 마음은 외롭지 않다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0f19ae4c9fd53b23059c89979c208e5d07c0bb41e6c58423ebeb79a5fd6d415b?t=1782231527590" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">잠깐~, 같이 가요! (당신이 앞서나가면 곧바로 그 뒤를 따른다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0f19ae4c9fd53b23059c89979c208e5d07c0bb41e6c58423ebeb79a5fd6d415b?t=1782231527590" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(당신이 꿈에서 겪은 것, 그리고 당신만이 알고 있는 수많은 진실에 대해서도,)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0f19ae4c9fd53b23059c89979c208e5d07c0bb41e6c58423ebeb79a5fd6d415b?t=1782231527590" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(언젠가 들을 날이 올까⋯⋯. 하고 생각하면서.)</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">【32：집단 자살】</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">두 사람은 전철을 갈아타며 목적지인 아리부 병원으로 향하고 있었다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">창밖에 펼쳐진 평온한 석양은 지평선 너머로 저물고, 도쿄의 하늘은 칠흑 같은 어둠에 휩싸여 간다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">약 30분 정도 전철을 갈아탄 일행은 환승을 위해 신주쿠역에 도착한다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">시간은 오후 6시를 넘긴 무렵,<br>역 플랫폼은 귀가를 서두르는 사람들로 가득 차 사람들의 눈을 피하기에는 안성맞춤인 상황이다.</div>
+</div>
+<div class="entry gmscript judge gm-run-end">
+  <div class="judge-box">🎲 〈관찰〉 또는 〈듣기〉 판정을 실시한다.</div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4d0128b957a0b34a769beb1c355ab0d3f38c2c92b13591bb14f1a871fcb94131?t=1782476215629" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">관찰력</span><span class="dice-thresholds"><b>65</b>/32/13</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-success">40</div></div>
+      <div class="dice-foot tier-success">보통 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0f19ae4c9fd53b23059c89979c208e5d07c0bb41e6c58423ebeb79a5fd6d415b?t=1782231527590" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">관찰력</span><span class="dice-thresholds"><b>60</b>/30/12</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-hard">25</div></div>
+      <div class="dice-foot tier-hard">어려운 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">급행 열차 통과를 알리는 안내 방송이 흐르고, 어둠 속에서 전조등의 빛이 보이기 시작할 때 플랫폼이 분주해진다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">그것을 눈치챈 당신이 문득 시선을 들자 눈앞의 광경에 말문이 막힌다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">교복을 입은 10대 후반쯤의 인물이 옷이 흐트러진 것도 신경 쓰지<br>않은 채 플랫폼과 선로를 가르는 문에 기어오르고 있는 것이다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">주변 사람들은 그를 도우려 하지 않고 스마트폰을 들어 그 모습을 열중해 촬영하고 있다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">그리고 다음 순간, 최악의 사태가 벌어진다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">그는 더없이 행복한 미소를 띠며 망설임 없이 선로 안으로 뛰어내린 것이다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">이자요이, MP+3</div>
+</div><div class="entry system"><div class="system-box">[ 사사키 이자요이 ] MP : 39 → 42</div></div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fc55ffed42bd0de8f27a4e409d6cf7f2f7fd6617dd1b64c3012e54aa1a133728?t=1782231536709" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯ (어? 그대로 시선이 얼어붙는다.)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ae1e9160293b3c63419dc99f58d39f98dba5f60e7ff67afd3ed783db5cc0b625?t=1782476215995" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">거기 학생, 잠깐- (떨어지기 전 손을 뻗었으나, 닿지 못 했다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fc55ffed42bd0de8f27a4e409d6cf7f2f7fd6617dd1b64c3012e54aa1a133728?t=1782231536709" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">반, 장님. ⋯⋯</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fc55ffed42bd0de8f27a4e409d6cf7f2f7fd6617dd1b64c3012e54aa1a133728?t=1782231536709" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯아, 안 돼⋯⋯! (곧바로 내달리지만, 이미 늦었다. 학생의 몸은 기울어 선로 위로 던져지고⋯⋯.)</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">그가 뛰어내린 것을 시작으로, 플랫폼에 넘쳐나던 사람들이 스스로 같은 방식으로 문을 넘어 선로 안으로 뛰어든다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">모두가 하나같이 행복한 미소를 띠며 뛰어드는 모습에서는 조금의 공포도 느껴지지 않는다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">그리고 운명의 순간이 찾아온다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">경적을 울리며 열차가 속도를 줄이지 않고 플랫폼에 도착하자, 선로 안에 겹겹이 쓰러진 군중을 향해 무자비하게 충돌한다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">사람들은 목을 떨며 광기의 비명을 지른다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">광속으로 밀려오는 철의 덩어리에 부딪힌 사람들의 살점과 장기,<br>뇌수가 무수히 뒤섞여 파도처럼 밀려들며 순식간에 시야를 붉게 물들인다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">폐는 철 냄새에 휘저어지고, 닦아도 닦아도 지워지지 않는 점토질 액체가 피부와 옷에 튀어오른다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">린토, 이자요이. 이성 수치를 1/1D4 잃는다.</div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ae1e9160293b3c63419dc99f58d39f98dba5f60e7ff67afd3ed783db5cc0b625?t=1782476215995" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">이성</span><span class="dice-thresholds"><b>35</b>/17/7</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-fail">53</div></div>
+      <div class="dice-foot tier-fail">실패</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ae1e9160293b3c63419dc99f58d39f98dba5f60e7ff67afd3ed783db5cc0b625?t=1782476215995" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">1D4</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-neutral">1</div></div>
+      
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fc55ffed42bd0de8f27a4e409d6cf7f2f7fd6617dd1b64c3012e54aa1a133728?t=1782231536709" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">이성</span><span class="dice-thresholds"><b>49</b>/24/9</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-fail">60</div></div>
+      <div class="dice-foot tier-fail">실패</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fc55ffed42bd0de8f27a4e409d6cf7f2f7fd6617dd1b64c3012e54aa1a133728?t=1782231536709" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">1D4</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-neutral">2</div></div>
+      
+    </div>
+  </div>
+</div><div class="entry system thread-pass" style="--thread-color: rgb(159, 0, 0); --thread-x: calc(var(--av)/2 - 1px);"><div class="system-box">[ 사사키 이자요이 ] 이성 : 49 → 47</div></div><div class="entry system thread-pass" style="--thread-color: rgb(159, 0, 0); --thread-x: calc(var(--av)/2 - 1px);"><div class="system-box">[ 고우마 린토 ] SAN : 35 → 34</div></div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1543a8b9000e2cbe24d9f0279cbaec77d95fd0f78b4e33cb0e6a10b09d58e065?t=1782231537603" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(잠시 동안, 충격을 감당하지 못하고 그 자리에 우뚝 멈춰서 있었다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(사람과 열차가 추돌하기 전, 눈을 감고 보지 않길 선택했다. 오로지 소리만이 린토에게 전해졌다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(살덩이와 뼈가 철도 어딘가에 끄셔지는 소리, 비명 소리, 액체가 한껏 튀겨대는 소리...)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1543a8b9000e2cbe24d9f0279cbaec77d95fd0f78b4e33cb0e6a10b09d58e065?t=1782231537603" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(⋯⋯전부 보았다. 차마 눈을 감는다는 선택을 할 정신조차 남지 않았으니까.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1543a8b9000e2cbe24d9f0279cbaec77d95fd0f78b4e33cb0e6a10b09d58e065?t=1782231537603" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(초점 없는 눈으로 멍하니 아래를 내려다본다. 무언가 붉은 것이 자신의 몸에도 철퍽, 하고 크게 튀었다가 주르르 흘러내린다.)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(소리들은 지워진 세계에서의 집단 자살을 상기시키고, 절망을 안겨준다.) 결국, 결국⋯.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1543a8b9000e2cbe24d9f0279cbaec77d95fd0f78b4e33cb0e6a10b09d58e065?t=1782231537603" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(머리가 아프다. 귀에서는 이명 소리뿐. 세상이 흐려져서 제멋대로 흔들린다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">이제 낙원은 없어. 그런데도 어째서 되풀이되는 거지? 이 죽음에는 무슨 의미가 있지? (눈을 뜨고, 제 몸에 붙은 살덩이 한 점을 집어들어 응시한다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">대체 어느 존재냐, 너는⋯! (손아귀 안에서 덩어리가 짜부러진다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1543a8b9000e2cbe24d9f0279cbaec77d95fd0f78b4e33cb0e6a10b09d58e065?t=1782231537603" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯. (낙원, 되풀이, 죽음. 수면 아래에서 수면 위의 소리를 듣는 것처럼, 바로 옆에서 나는 소리조차 뭉개진다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/1543a8b9000e2cbe24d9f0279cbaec77d95fd0f78b4e33cb0e6a10b09d58e065?t=1782231537603" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(여전히 미동도 없다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/fa75f49594c05300b69843ff8b91fe30376f71b8154dae43f977945a27bec7d4?t=1782476215771" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">설마 또, 토우카가⋯. (혼잣말을 늘어놓다 문득 주변을 보자면, 목석처럼 굳어있는 이자요이가 있다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/fa75f49594c05300b69843ff8b91fe30376f71b8154dae43f977945a27bec7d4?t=1782476215771" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(한 쪽 어깨를 가볍게 두드린다.) 이자요이 군. 이자요이 군!</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fa1185a80371c11f5e075baf140fc092e29be96a7b423e45e3e7993372f894f1?t=1782231537578" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯막을 수가 없었어요. (목소리에서는 혼이 빠져 있다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fa1185a80371c11f5e075baf140fc092e29be96a7b423e45e3e7993372f894f1?t=1782231537578" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">단 한 명도⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fa1185a80371c11f5e075baf140fc092e29be96a7b423e45e3e7993372f894f1?t=1782231537578" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">모두, 죽어버렸어⋯⋯. (비틀대며 붉은색밖에 남지 않은 플랫폼 쪽으로 비척비척 걸음을 옮긴다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/fa75f49594c05300b69843ff8b91fe30376f71b8154dae43f977945a27bec7d4?t=1782476215771" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(그 모습이 꼭 아까 사람들의 이상행동을 연상시켰기에, 이자요이의 팔을 거칠게 끌어당겼다.) ─!!</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/fa75f49594c05300b69843ff8b91fe30376f71b8154dae43f977945a27bec7d4?t=1782476215771" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... ... 자네가 해결할 수 있는 일이 아니었어. 두 명이서 그 정도 인파를 어떻게 물릴 수 있다고!</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fa1185a80371c11f5e075baf140fc092e29be96a7b423e45e3e7993372f894f1?t=1782231537578" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(휘청, 당신이 끌어당기는 쪽으로 몸이 휙 기울더니 이내 질질 끌려간다.) 알아요, 알고 있어요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fa1185a80371c11f5e075baf140fc092e29be96a7b423e45e3e7993372f894f1?t=1782231537578" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯그래도 죽음이란 게 도저히 익숙해지질 않아요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/fa1185a80371c11f5e075baf140fc092e29be96a7b423e45e3e7993372f894f1?t=1782231537578" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">도저히.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/dcaca66ddb8f4b46b9d7d796b4ac591652036cadd98619f250759fcaa6f092ad?t=1782231537572" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(순간, 멈춰섰다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(어디에서 났는지 모를 억센 힘으로 당신을 마주 콱, 잡아챈다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">이전에도 이런 일이 있었나요?</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">토우카라는 건 대체 누구죠⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">낙원에 닿기 위해서, ⋯⋯사람들이 죽었어요?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/fa75f49594c05300b69843ff8b91fe30376f71b8154dae43f977945a27bec7d4?t=1782476215771" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">....... 자네, 흥분했어.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/fa75f49594c05300b69843ff8b91fe30376f71b8154dae43f977945a27bec7d4?t=1782476215771" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">상황이 이러니 초조한 건 알겠다만, 일단 진정해.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/fa75f49594c05300b69843ff8b91fe30376f71b8154dae43f977945a27bec7d4?t=1782476215771" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">토우카는, ... 지금은 낙원과 관계없을 거다. 아마도⋯. (이자요이의 손에서 팔을 빼내려 반댓손을 올렸다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">네. 알아요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(자신이 지금 온전한 상태가 아니라는 것은 스스로도 알고 있다. 하지만 이런 순간에만 할 수 있는 일이 분명히 있다⋯.) 또 어물쩍 빠져나가지 마시고요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">그 사람이 낙원에 닿기 위해 사람들을 죽였군요. (빠져나가려는 움직임을 느끼면 더 세게 움켜쥔다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">하지만 지금 이 사건과 관계없다고⋯⋯, 왜?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/fa75f49594c05300b69843ff8b91fe30376f71b8154dae43f977945a27bec7d4?t=1782476215771" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(세게 움켜쥔다면, 그만큼 고통이 올라온다.) 윽,</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/29c35ea30f3da5d2d1d381102a75e48710a51d6c5f59280ff05c1a771d72eeb6?t=1782476215782" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">이자요이 군. 놔. (미간을 일그러트리고 단단히 노려보았다.) ... 이건 경고다.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/29c35ea30f3da5d2d1d381102a75e48710a51d6c5f59280ff05c1a771d72eeb6?t=1782476215782" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">그래, 사람을 죽였어. 자네가 상상도 못 할 사람들을 희생시켰지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/29c35ea30f3da5d2d1d381102a75e48710a51d6c5f59280ff05c1a771d72eeb6?t=1782476215782" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">삶은 더없는 고통이고, 토우카는 그것에서 인류를 구하길 원했으니까. 우리 모두가 그 굴레를 끊어낼 수 있도록 돕기 위해서!</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/29c35ea30f3da5d2d1d381102a75e48710a51d6c5f59280ff05c1a771d72eeb6?t=1782476215782" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">하지만 본관이 마지막으로 만났을 때의 그는, 어떠한 사건에도 접촉하지 않았고, 관여되어있지도 않았어.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/29c35ea30f3da5d2d1d381102a75e48710a51d6c5f59280ff05c1a771d72eeb6?t=1782476215782" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">전혀 무관계하다고. ... 또 뭐가 불만이어서 징징대는 거냐, 응?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">불안해 미쳐버리겠어. 당신도 죽어버릴 것 같아서⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">죽음이 당신의 마지막 도피가 될까 봐. 나는 끝내 아무것도 알지 못한 채로 혼자 남을까 봐. (눈동자 안에는 당신이 담기지 않는다. 그러니 어쩌면 이것은 독백.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(사람을 죽였다라, 그것도 수많은⋯⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(하지만 그것이 사실이라면 이해가 가지 않는 것이 있다. 어떻게 그 모든 죄를 짊어진 이가 '아무것에도 관여되지 않은' 채로 돌아갈 수 있단 말인가?)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯그 이름을 꽤나 다정히 부르시네요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(꼭, 적이 아니라 동지였던 것처럼.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/66feede95239573f2feca5072d6b73c978638de47b71c76e3e3fb09baf740d09?t=1782231538881" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(그렇다면 그 죄는 그 '토우카'만의 것이 아닐지도 모른다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯ (힘없이 당신을 붙잡고 있던 손을 놓았다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">죄송해요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">이런 식으로 들으려던 건, 아니었는데⋯⋯. (고개를 숙인다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/29c35ea30f3da5d2d1d381102a75e48710a51d6c5f59280ff05c1a771d72eeb6?t=1782476215782" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... (괘씸함에 귀를 쭉 잡아당긴다.) 뭘 잘못했는지는 아는군.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/29c35ea30f3da5d2d1d381102a75e48710a51d6c5f59280ff05c1a771d72eeb6?t=1782476215782" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">본관이 정말 죽는 꼴을 보고 싶지 않다면 잘 보좌하기나 해라. 이렇게 날뛰지 말고.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 그렇게 초조해하지 않아도, 언젠가 터놓을 심산이었다. 그러니... ... 조금만 더 기다려 달라고.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">또 이렇게 버릇없이 굴었다간 보호소로 보내버리겠어. (팔 쪽 옷깃을 털어 정리한다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/01cab224694d8ad911b967ae7451cf9ad69de65ae21904d6d872ac4ec4679b9a?t=1782231536977" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(잡아당기는 대로 잡아당겨진다. 조금 인상을 쓰기는 했지만⋯⋯. 지금은 달리 할 말이 없다는 걸 알고 있으니까.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/01cab224694d8ad911b967ae7451cf9ad69de65ae21904d6d872ac4ec4679b9a?t=1782231536977" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">언제나 그러고 있다는 거 아시잖아요. 저 자신보다도 더⋯⋯. (잠시 침묵.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/01cab224694d8ad911b967ae7451cf9ad69de65ae21904d6d872ac4ec4679b9a?t=1782231536977" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">네. ⋯언제나 인내심을 갖추려고 노력하고 있어요. 이번엔 단지, 걱정이 조금 많이 되었던 것뿐이에요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/01cab224694d8ad911b967ae7451cf9ad69de65ae21904d6d872ac4ec4679b9a?t=1782231536977" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯그러니까 용서해 주시겠죠? (물끄러미 당신을 바라보다가, 손을 뻗어 당신의 머리카락에 튄 덩어리를 하나 떼고는.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/01cab224694d8ad911b967ae7451cf9ad69de65ae21904d6d872ac4ec4679b9a?t=1782231536977" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">상황이⋯⋯, 많이 불안해요. 지상은 괜찮을까요.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">뉘우침은 용서를 바라고 하는게 아니야. (이번엔 미간에 딱밤.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... (조금 어물거리다가.) 이런 경험을 한 적이 있어.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">지하건 지상이건, 동시다발적으로 모든 사람들이 죄를 고하고 자살했었지. 이번에도 그와 같다면...</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/7e4e7dc550f46e569d5d50bb96a3e3ebfd29893394b820defe6773e81814d3d8?t=1783401176882" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">아야⋯⋯. (그 목소리에도 기운이 없다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/7e4e7dc550f46e569d5d50bb96a3e3ebfd29893394b820defe6773e81814d3d8?t=1783401176882" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(눈 깜빡.) 그래서 '반복된다'고 표현을 하셨군요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/7e4e7dc550f46e569d5d50bb96a3e3ebfd29893394b820defe6773e81814d3d8?t=1783401176882" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(하지만⋯⋯. 정말로 그 정도로 큰일이 벌어졌다면, 자신이 그에 대해 모를 수가 있는가?)</div>
+  </div>
+</div>
+<div class="entry gmscript judge gm-run-start gm-run-end">
+  <div class="judge-box">🎲 〈관찰〉 판정을 실시한다.</div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">관찰력</span><span class="dice-thresholds"><b>65</b>/32/13</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-success">35</div></div>
+      <div class="dice-foot tier-success">보통 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/48d7a7e4a3dbb055a573e47e12aa555560728a384b0e6cfb0339c1976c4a51c6?t=1783401176736" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">관찰력</span><span class="dice-thresholds"><b>60</b>/30/12</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-fail">88</div></div>
+      <div class="dice-foot tier-fail">실패</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/48d7a7e4a3dbb055a573e47e12aa555560728a384b0e6cfb0339c1976c4a51c6?t=1783401176736" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">그것도 반장님의 꿈에서 보신 걸까요. (침묵.) 조심하는 게 좋겠어요.</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">군중이 열차에 치여 사망한 순간, 검은 먼지 같은 물체가 부서진 육체에서 흩날리며 떠오른다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">그것은 희미한 윤곽을 변화시키더니 순식간에 인간 형태를 이루었다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">검은 그림자처럼 모습을 바꾼 먼지는 마치 미소 짓듯 입꼬리를<br>비틀고 당신의 망막에 새겨진 후 공간 속으로 녹아들듯 사라져버린다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">린토, 이성 수치를 0/1D4 잃는다.</div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">이성</span><span class="dice-thresholds"><b>34</b>/17/6</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-fail">86</div></div>
+      <div class="dice-foot tier-fail">실패</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">1D4</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-neutral">2</div></div>
+      
+    </div>
+  </div>
+</div><div class="entry system thread-pass" style="--thread-color: rgb(0, 21, 143); --thread-x: calc(var(--av)/2 - 1px);"><div class="system-box">[ 고우마 린토 ] SAN : 34 → 32</div></div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">지능</span><span class="dice-thresholds"><b>70</b>/35/14</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-extreme">2</div></div>
+      <div class="dice-foot tier-extreme">대단한 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3f529d25a2e572f141a47419059db0b46e826a3302d2412aff4657807f5425a7?t=1782476215499" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">...... (그 존재를 똑똑히 보았다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3f529d25a2e572f141a47419059db0b46e826a3302d2412aff4657807f5425a7?t=1782476215499" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(린토는 확신한다. 사건의 관련자들 모두가 입을 모아 말했던 '검은 그림자'가 필시 저것임을.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3f529d25a2e572f141a47419059db0b46e826a3302d2412aff4657807f5425a7?t=1782476215499" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">..... 봤어.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/48d7a7e4a3dbb055a573e47e12aa555560728a384b0e6cfb0339c1976c4a51c6?t=1783401176736" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯네?</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/48d7a7e4a3dbb055a573e47e12aa555560728a384b0e6cfb0339c1976c4a51c6?t=1783401176736" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">반장님, 왜⋯⋯. 왜 그러세요?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3f529d25a2e572f141a47419059db0b46e826a3302d2412aff4657807f5425a7?t=1782476215499" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 못 봤나 보군.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3f529d25a2e572f141a47419059db0b46e826a3302d2412aff4657807f5425a7?t=1782476215499" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(손가락을 올려 한 곳을 가리킨다.) 검은 그림자가, 저 곳에.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/67764e7c305032f5bd8fabfdec2ecd7ec6ac4a63d66f24b191cf238a3c08dcbd?t=1783401177027" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/7d1c4779405fec3bd947ecc3c76df6cf8eade661633fc08c0736faa6aab5ba47?t=1782476215831" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 시체에도 똑같이 자살 충동이 들어먹히려나?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯네? (잠시 말을 잃는다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">아니, ⋯⋯착각일 거예요. 착각이어야 하는데, ⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">세입자! (불안해서 목소리가 높아진다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(시선으로는 검은 그림자가 있었다며 반장이 가리킨 위치를 마구 훑고 있다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/17e8db2a97b1b28651e8cdd93bff691866203cf2a41926597d23dc91bd56f36f?t=1782824651777" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">뭐어, 진정해. 그래도 본관만 보아서 다행인 거지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/17e8db2a97b1b28651e8cdd93bff691866203cf2a41926597d23dc91bd56f36f?t=1782824651777" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">알다시피 잘 죽지도 못 하는 몸이잖나. 목에 구멍이 날지라도 튼튼한 바디로 변하는 것 외엔 지장이 없다고?</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">(퉁명스럽게 답한다.) 넌 인간이 아니다. 뭘 묻는 거지?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/bc34c29cc3120d5b672b524d4d26e347cb804b8021c7c7d095c2f5ffbd2579dd?t=1783401177009" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(반장이 하는 소리는 정말 하나도 마음에 들지 않지만⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/bc34c29cc3120d5b672b524d4d26e347cb804b8021c7c7d095c2f5ffbd2579dd?t=1783401177009" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">이 순간만큼은 반장님이 인간이 아닌 게 다행이라는 생각이 드네요⋯⋯. (휴.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/17e8db2a97b1b28651e8cdd93bff691866203cf2a41926597d23dc91bd56f36f?t=1782824651777" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(후우-) 한시름 놓았군.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/17e8db2a97b1b28651e8cdd93bff691866203cf2a41926597d23dc91bd56f36f?t=1782824651777" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">그래. 안 그래도 못생긴 몸인데 이런 메리트라도 있어야지.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/bc34c29cc3120d5b672b524d4d26e347cb804b8021c7c7d095c2f5ffbd2579dd?t=1783401177009" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(작게 한숨을 쉬었다. 하아⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/bc34c29cc3120d5b672b524d4d26e347cb804b8021c7c7d095c2f5ffbd2579dd?t=1783401177009" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯그래도 그렇게 가볍게 이야기하지는 말아주세요. 인간이 아닌 상태에 지나치게 익숙해지면 안 된다고요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/17e8db2a97b1b28651e8cdd93bff691866203cf2a41926597d23dc91bd56f36f?t=1782824651777" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">사소한 건 신경쓰지 말라고. (손 휘휘 젓는다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/17e8db2a97b1b28651e8cdd93bff691866203cf2a41926597d23dc91bd56f36f?t=1782824651777" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">자, 슬슬 바깥 공기 좀 마시러 나가 볼까. 피 냄새에 토가 쏠리겠어...</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/bc34c29cc3120d5b672b524d4d26e347cb804b8021c7c7d095c2f5ffbd2579dd?t=1783401177009" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">원래 목적은 환승이기는 했지만. ⋯⋯이렇게 된 플랫폼에 열차가 설 리 없겠죠⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/67764e7c305032f5bd8fabfdec2ecd7ec6ac4a63d66f24b191cf238a3c08dcbd?t=1783401177027" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">우선 지상으로 나가서 마저 아리부 병원으로 갈 길을 찾아봐야겠어요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/67764e7c305032f5bd8fabfdec2ecd7ec6ac4a63d66f24b191cf238a3c08dcbd?t=1783401177027" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">바깥이라고 피 냄새가⋯⋯, 음, 다르진 않을지도 모르지만.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/67764e7c305032f5bd8fabfdec2ecd7ec6ac4a63d66f24b191cf238a3c08dcbd?t=1783401177027" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(슬쩍 한 손으로 반장의 손목 부근을 쥐고는, 걸음을 옮기기 시작한다. 지상을 향하는 계단을 찾아.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/7d1c4779405fec3bd947ecc3c76df6cf8eade661633fc08c0736faa6aab5ba47?t=1782476215831" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">...? (딱히 뿌리치진 않았지만, 의문스러운 얼굴.) 이건 왜 잡는 거지?</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/7d1c4779405fec3bd947ecc3c76df6cf8eade661633fc08c0736faa6aab5ba47?t=1782476215831" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(일단은 이끄는 대로 움직여 준다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/67764e7c305032f5bd8fabfdec2ecd7ec6ac4a63d66f24b191cf238a3c08dcbd?t=1783401177027" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">어떤 아수라장이 펼쳐져 있을지 모르는데 따로 떨어져 있다간 금방 놓친다고요. ⋯⋯ (그런 핑계다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/67764e7c305032f5bd8fabfdec2ecd7ec6ac4a63d66f24b191cf238a3c08dcbd?t=1783401177027" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">아예 손을 잡아드려요?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 뭘 그렇게까지. 이 정도면 됐다.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(상태도 불안정해보이니 그러려니 한다. 이번만, 이번만 눈 감아 주는 거다..)</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">【33：위해 조우】</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">플랫폼은 도망치려는 수많은 사람들로 인해 혼돈에 빠져 있었다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">이곳에서 먼저 벗어나려는 군중의 물결이 한쪽으로 밀려들며, 많은 이들이 넘어지고 짓밟혀간다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">고함과 비명, 말로 표현할 수 없는 부정적인 감정이 소리로 변해 끊임없이 고막을 울린다.</div>
+</div>
+<div class="entry pc" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">⋯괜찮겠나? 쉽게 나가기 어려울 것 같은데.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯(그 감정들에 휩쓸려 잠시 미간을 찡그렸다가.)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">아직 멀쩡한 사람들이 남아 있긴 하는군. 아까 전부 죽은 줄 알았는데.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">질서 유지라도 돕고 싶은데, 우리 둘로는 도저히 견적이 안 나오네요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">확성기도 없는 지금은 목소리가 다 묻힐 거다. 저 인간들도 죽지만 않았지, 상당한 패닉 상태로 보여.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(고개를 끄덕인다.) 언제라도 돌발 행동을 할 수 있는 위험한 상태로 보여요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">이쪽 길로 나가는 건 틀린 것 같은데, 반대쪽 출구를 찾아볼까요?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(붐비지 않는 출구가 있으려나 싶지만.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(일단 어디로든 움직여 보는게 살 길이다.) ... 그래. 가 보자고.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(조금 더 빨라진 걸음을, 반대편 출구를 가리키는 표시등을 향해 옮긴다.)</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">그때, 시야 앞에 서 있는 인물의 뒷모습에 시선이 멈춘다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">도망치는 군중 속에서 홀로 서 있는 모습에서 형언할 수 없는 불안을 느끼지 않을 수 없다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">⋯그는 자신에게 쏟아지는 시선을 느꼈는지 천천히 뒤를 돌아본다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">아마도 익숙함이 느껴지는 인물일 것이다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">거기 서 있던 것은 고우마 린토의 반의 일원으로. 함께 사건을 추적했던 동료, 키리시마 린도였다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">그도 역시, 이 현장에 우연히 있었던 것일까.</div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯ (자신도 모르게 멈춰선다.) !</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3f529d25a2e572f141a47419059db0b46e826a3302d2412aff4657807f5425a7?t=1782476215499" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">.... 여기 있었나.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">키, ⋯⋯ (하지만 그는 진작에⋯⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(이자요이가 끝맺지 못한 이름을 대신 잇는다.) 키리시마 군.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">미안하지만 자택을 좀 조사했다. 자네의 정체에 대해 전부 알게 되었어.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">달리던 차량을 습격한 것과, 얼마 전 병원 앞에서 난동을 부렸던 위해.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">그건, 자네지?</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(차마 어찌할 수 없는 감정에 눈을 질끈 감았다 뜬다.) ⋯⋯.</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">고우마 린토가 말을 건네고 있을 때다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">두 사람은 문득, 시야 앞에 서 있는 그의 정체를 깨닫고 만다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">거기 서 있던 것은 키리시마 린도의 모습을 한 위해였다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">그의 반신은 검은 갑각으로 덮여 있고,<br>눈과 코가 없는 머리에는 드러난 이빨이 줄지어 나 있으며 기이하고 불쾌한 소리를 계속 내고 있다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">위해는 천천히 입을 열어 짜내듯 둔하고 일그러진 목소리를 내뱉는다.</div>
+</div>
+<div class="entry pc" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="plog-content">고우마 님⋯.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(시선이 갈 데 없이 떨린다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(잠시 눈이 크게 뜨였지만, 곧 원래의 진중한 얼굴로 돌아온다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">누가 자넬 이렇게 만들었지?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">소용없어. 저 녀석은 완전히 기억을 잃고 인간성을 벗어나버렸다.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">방금의 말은 머리 속에 남아있던 마지막 단어일 테지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">이젠, 네가 알던 키리시마 린도가 아니야⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... ...</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">하지만, 이름을 불렀다고.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">그렇다면 조금의 기억은 남아있는 게 아니냐!</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯(참담함에 입술을 꾹 다물고 있다가 어렵게 입을 연다.) 키리시마 씨는.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">마지막 순간까지, 자신이 알아낸 진실을 반장님께 전하려는 생각뿐이셨나 봐요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯하지만 그럴 수 없게 됐죠. (주먹을 꾹 쥔다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">이 자리에서 만난 것도⋯⋯, 키리시마 씨를 보내서 반장님을 죽이려는 누군가의 조종 때문일까요?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">⋯⋯!! (장갑에 마찰음이 일 정도로 거세게 주먹을 쥐었다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">아마도 그렇겠지. 키리시마 군의 자의로는 절대 그리하지 않을 테니까.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/3a6f9844224a5ff780196507aec6bb1a304e68979066eae80a74e6e3347365fa?t=1783083455072" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">..... 그렇다면 맞붙을 수 밖에 없나, 우리는.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">키리시마 씨⋯⋯. (슬픈 시선으로 바라본다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">역시 이 자리에서 우리를 그냥 보내 주실 순⋯⋯, 없으시겠죠?</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">애석하게도, 녀석의 마지막 남은 기억이 네 이름이었나 보군.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">저 녀석, 이곳에서 그렇게 쉽게 우리를 놓아주진 않겠지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">설령 우리가 도망친다 해도, 도망치지 못한 사람들에게 피해가 갈 거야.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">세입자 군. 자네가 보기에 키리시마 군의 공격력은 지난번과 같아 보이나?</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">그래. 크게 달라진 것 없어 보이는군.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">키리시마 씨가 더 많은 사람들을 해치는 것을 막기 위해서도⋯⋯. (눈을 감았다 뜬다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">이 자리에서 끝내드릴 수밖에, 없어요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/aefebcdb92987a4b32f297bfc143dadb3fe17c867214a7d3750587782d92b1fd?t=1782476845288" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(근심과 뒤섞여, 어느 때보다도 깊은 한숨이 목 아래서 터져 나온다.) ⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">왜 나는, 반원들을 전부 죽이게 되는 건지 모르겠어..</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(뿌리박힌 절망이 움찔대더라도, 지금은 움직여야 한다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(아직은 멀쩡하다싶은 한 명, 이자요이를 구하기 위해. 이번만큼은 헛되이 죽도록 하지 않기 위해서.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">하지 못 한 이야기는 니라사와 군에게 해 달라고.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">거기서 날 원망하던, 미안해 하던. 원하는 대로 하고 살아.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">설령 저주라도, 자네들이 내려주는 것은 무엇이든지 기꺼이 받아들이겠어...</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(그리고 목을 돌려 이자요이 바라본다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 실행하지.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/6a872cfca30526f09d7db985190f3f52760a22432dcce1d5338d8de41e8d768e?t=1782231538377" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(당신이 그에게 마지막 말들을 남길 때까지 잠자코 기다리고 있었을 것이다. 비록 이 자리에 더는 '키리시마 린도'가 없다고 할지라도⋯⋯. 어떤 말들은 단지 말해지는 자체로도 의미가 있기 마련이다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(이제는 해야만 해. ⋯⋯자신의 심장과 가장 가까운 곳, 겉옷의 안주머니에 보관하고 있던 드라이버를 향해 손을 가져간다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(하지만, 그전에 당신에게 하고 싶은 말이 있어.) '전부'가 아니에요, 고우마 씨⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">니라사와 씨가 죽었던 것도. ⋯키리시마 씨가 자신의 존재를 빼앗겨버린 것도 전부 반장님의 탓이었던 적이 없어요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">그리고 저도 마찬가지예요. 그러니 언젠가는⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(울 것 같아진 나머지 표정을 보이지 않기 위해⋯⋯ 한 팔로 가만히 당신의 어깨를 감싸고, 품에 안았다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/b1f71fd15051cb411d518511f926f228ceb3bd04f3073d59b18093f5405b4590?t=1782231537593" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">'이런 것'도 아니고, 저주도 아닌, ⋯⋯</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/b1f71fd15051cb411d518511f926f228ceb3bd04f3073d59b18093f5405b4590?t=1782231537593" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">'구원'을 드릴 수 있길⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/b1f71fd15051cb411d518511f926f228ceb3bd04f3073d59b18093f5405b4590?t=1782231537593" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(드라이버를 든 남은 한쪽 팔을 크게 치켜들었다가,)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/b1f71fd15051cb411d518511f926f228ceb3bd04f3073d59b18093f5405b4590?t=1782231537593" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(그대로 당신의 빗장뼈 바로 아래에 있는 동맥에 꽂는다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/b1f71fd15051cb411d518511f926f228ceb3bd04f3073d59b18093f5405b4590?t=1782231537593" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(뽑아내는 손놀림까지, 이번에는 군더더기 한 점 없었다⋯⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(다물린 잇새에선 신음 한 점 새어나오지 않는다. 통각이 무뎌져 그런 걸까, 극적인 고통은 없었다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(이후는 전과 비슷했다. 뽑혀나온 드라이버를 따라 원형으로 핏줄기가 솟구치고, 그대로 살에 붙어 경화되더니.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/4ace6385962a389a281e908eedfa393cb5eda341e4d30099c50e8e16cfc1e847?t=1783083455270" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(어젯밤 개조했던 몸이 다시금 빠르게 구현된다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(몸의 상태를 확인하고는 손아귀에 힘을 주어 힘줄을 세운다.) ...</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">생각 외로 잘 하는군. 머뭇댈 줄 알았더니.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(당신이 완전히 변하고 나면, 그제야 가만히 놓아주고는.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(소리없이 물러난다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">약속, 했잖아요. 이것만은 제 몫으로 하겠다고⋯⋯. (애써 웃는 낯, 눈에서는 물기가 흔들린다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯그렇죠? 정말로 잘 해냈죠?</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">조심하세요. ⋯⋯지금의 저는 그런 말밖에 드릴 수가 없나 봐요.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(그렇다면 비슷하게 돌려줄까.) ... 자네나 조심해.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">자, 어디 붙어 볼까⋯. (제 앞 위해를 똑바로 주시하고 선다. 컨디션은 좋고, 기억도... 아직은 멀쩡하고.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(어디까지가 수용치인진 모르겠다만, 일단 신경쓰지 않도록 할까. 그를 보내주는 것을 최우선으로.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(한없이 나약하고 또 보잘것없는 인간에 불과하다 하더라도, 나는 이번에도⋯⋯ 그의 옆에 선다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(당신이 앞만 보고 달리는 사람이라는 사실은 알고 있다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(그러니 옆에서라도, 붙잡아야 할 때가 온다면⋯⋯ 붙잡아 멈춰세워야겠지.) 너무 멀리 가지 마시고요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">제가 따라잡을 수 있게.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 요즘은 또 그런 생각이 들더군.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">본관은 아무래도 혼자 살아야 할 팔자 같다고.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">그러니 지금만, 따라붙을 수 있도록 속도를 늦춰주겠어.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">마무리되고 난 이후는 자네 능력껏 해 봐. 배려는 없을 거다.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(영 반갑지 않은 소리에는 조금 더 시무룩해지지만.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(그럼에도 결론은, 자신이 약간의 유예를 얻어냈다는 사실이라.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">하하⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">반장님은 언제나 참, 너무하시네요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">알고 있어요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/68b88e76ce4e5cffcd88c07569aa281b2dfc6dcd934237abf9560c3c04b18773?t=1782231537600" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">알면서도 좋아했으니까. (자세를 고쳐 잡고 섰다.)</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">【34：VS 위해③】</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">위해가 나타난 것으로 인해, 도망치지 못한 사람들은 패닉 상태에 빠진다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">도망갈 곳을 잃은 자, 그 자리에서 굳어버린 자, 가족과 헤어져 울부짖는 아이⋯⋯</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">전투가 격화되면, 도망치지 못한 사람들에게 피해가 미칠지도 모른다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">당신들은 시민을 지키는 형사로서, 어떻게 행동할 것인가.</div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(위해의 앞을 가로막고 선다.) 이자요이 군. 시민 쪽을 부탁하지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">부드럽게 웃으면서 살살 굴리면 다들 말을 들어 줄 거다. (다소 자신에게 편향된 방식을 조언한다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(위해의 싸움이다. 피해가 주변에 튀지 않는 것이 더 이상할 지경.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(하지만 주변에 사람이 너무 많아. 눈으로 빠르게 훑어 세어보면⋯⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">자력 도주 불가 상태의 민간인, 30명 가량으로 확인됩니다.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(당신의 등을 심란하게 바라본다. 이럴 수밖에 없다는 것을 알고 있다. 우리는 단지 우리 둘뿐만이 아닌, 많은 사람들을 구해야 하니까.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(그러니 당신에게 너무 큰 부담이 가지 않으려면⋯⋯, 최선을 다하는 수밖에 없다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/bc34c29cc3120d5b672b524d4d26e347cb804b8021c7c7d095c2f5ffbd2579dd?t=1783401177009" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">그런 방식은, 반장님이나 잘 쓰시는 거죠⋯⋯! (이 와중에도 한마디.)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">못 할 건 또 뭐냐. 자신을 가지고 해 보라고! (호통.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/bc34c29cc3120d5b672b524d4d26e347cb804b8021c7c7d095c2f5ffbd2579dd?t=1783401177009" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(끄응⋯⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/bc34c29cc3120d5b672b524d4d26e347cb804b8021c7c7d095c2f5ffbd2579dd?t=1783401177009" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(시민을 대피시키려 시도해 보겠습니다. 군중을 효과적으로 움직이는 것은 여러 가지가 있겠지만⋯⋯,)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/bc34c29cc3120d5b672b524d4d26e347cb804b8021c7c7d095c2f5ffbd2579dd?t=1783401177009" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(어떤 상황에서는, 정석적인 방법보다 선동이 더 빠르다는 것을 안다. 말재주로 판정합니다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/85d43bd6a84a2442da4c9be5ad5c58c4c90f2261dfe42348aa3198282e609ea0?t=1782231537584" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯불이야! (시민들이 있는 곳을 향해 뛰어간다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/85d43bd6a84a2442da4c9be5ad5c58c4c90f2261dfe42348aa3198282e609ea0?t=1782231537584" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">내부 시설에 불이 났대요, 다들 뭐하세요? 빨리 뛰라고요!</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/85d43bd6a84a2442da4c9be5ad5c58c4c90f2261dfe42348aa3198282e609ea0?t=1782231537584" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">지금 저런 거 보고 얼어 있을 때가 아니에요! 타 죽고 싶지 않으면⋯⋯!</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/85d43bd6a84a2442da4c9be5ad5c58c4c90f2261dfe42348aa3198282e609ea0?t=1782231537584" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">질서정연하게 줄을 서서 비상구로 대피해요! (어째 결론이 조금 모범적이지만.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/85d43bd6a84a2442da4c9be5ad5c58c4c90f2261dfe42348aa3198282e609ea0?t=1782231537584" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">말재주</span><span class="dice-thresholds"><b>70</b>/35/14</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-success">66</div></div>
+      <div class="dice-foot tier-success">보통 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="GM" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(136, 136, 136)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">GM</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">1D10 명의 시민을 구하는 것에 성공한다.</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-neutral">8</div></div>
+      
+    </div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start gm-run-end">
+  <div class="gmscript-box">22명의 시민이 남아있다.</div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(아하하하!) 입에 침도 안 바르고 거짓말을!</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/85d43bd6a84a2442da4c9be5ad5c58c4c90f2261dfe42348aa3198282e609ea0?t=1782231537584" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">역시 저는 이쪽이 더 적성에 맞네요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">1D3 공격 대상</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-neutral">2</div></div>
+      
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">〈특수 공격(검은 채찍)〉</span><span class="dice-thresholds"><b>75</b>/37/15</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-fail">90</div></div>
+      <div class="dice-foot tier-fail">실패</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="plog-content">(시민들을 대피시키고 있던 이자요이의 뒤로 이동, 팔을 내뻗었으나 무게 중심이 뒤틀려서인지 그대로 휘청거렸다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯! (위험했다! 순간 느껴진 생명의 위협에 온몸에 소름이 돋는다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">키리시마 씨 빼고요, ⋯⋯키리시마 씨는 대피하시면 안 돼요.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="plog-content">⋯ (말을 알아듣기라도 한 것인지, 잠시 멈칫했다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(가만히 응시하다가.) 많이 무겁나 보군.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">어울리지도 않는 갑주를 달고 있으니 그렇지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">다시 한 번 분리해 보자고! (빠르게 근접해, 팔과 몸통을 잇는 이음새 관절에 손 끝을 박아넣는다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(근접 공격을 행합니다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">근력</span><span class="dice-thresholds"><b>100</b>/50/20</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-extreme">4</div></div>
+      <div class="dice-foot tier-extreme">대단한 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">4D4</span></div>
+      <div class="dice-body"><div class="dice-faces"><span class="die">4</span><span class="die">4</span><span class="die">2</span><span class="die">3</span><span class="dice-eq">=</span><span class="dice-total-inline">13</span></div></div>
+      
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="plog-content">c30-16&nbsp;c(30-16) ＞ 14</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="plog-content">⋯커억. (단단히 싸여 있던 외피에 명확하게 금이 가, 울컥 피를 토한다. 잠시 몸체가 비틀어졌으나 곧 자세를 다시 세웠다.)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/27e1e76d18897419fe6373a3281373ea76903a7949b4464b517ac622edf7b4d5?t=1783428800429" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">⋯⋯. (뽑아내는 동시에 고통에 찬 목소리를 듣는다. 그 순간 눈이 흔들렸다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(그 소리에 멈칫, 뒤를 돌아볼 수밖에 없었다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(같은 시점에 반장도 흔들렸음을 직감한다. 그러니 자신의 역할은 이것일 수밖에 없다.) ⋯⋯반장님!</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">─망설이시면 안 돼요!</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/b32f8aa736c8fb47a2e1955166ad92820c4ac4ba6d0d97a3adb6de6c2774f343?t=1783428800685" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... (동요의 감정을 잠재우고 다시 의지를 다진 눈을 한다.) 그래.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">망설여선 맡은 일을 해 낼 수 없지.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(손을 빠르게 휘둘러 털어낸다. 위해의 혈액이 반원을 그리며 흩어진다.) 자, 마저 해 봐.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">아직 몇 명이 남았을 텐데.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(당신이 격전을 펼쳐 가며 벌어준 틈이다. 인파를 향해 다시금 뛰어간다.) 거기!</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">왜 아직까지 남아계시죠? 이 안이 지금 지상보다 더 위험하다니까요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">줄을 맞춰서 입구로 가세요⋯⋯. 밖에 나가서, 어디든 안전한 곳에 숨어 있어요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯갑자기 활짝 웃는 사람들도 조심하시고요!</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">말재주</span><span class="dice-thresholds"><b>70</b>/35/14</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-success">66</div></div>
+      <div class="dice-foot tier-success">보통 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">1D10</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-neutral">1</div></div>
+      
+    </div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">당신의 정확한 지시에 따라 도망치지 못한 시민을 대피시키는 데 성공한다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">가족과 헤어져 울고 있던 아이는 당신의 부름에 반응하며 얼굴을 든다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">"언니, 나 엄마랑 헤어졌어⋯ 너무 무서워⋯."</div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯. (말문이 막히지만, 잘 달래야 해. 시간이 없어.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">많이 놀라고 또 무섭지? 언니도 알아⋯⋯. 지금은 어른들도 다 무서워하는 중이니까⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">그래도, 우선 안전한 곳으로 가는 것만 생각하자. 그래야 엄마랑 다시 만나는 것도 할 수 있어. 그치?</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(아이를 빠르게 한 번 꼭 안아준 후 다시 자세를 잡고 선다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/b75157712ff78c7709a33764128c62d79acff2cabaf259b07ec45487d6d8d32d?t=1783428800433" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(짧은 기회가 생긴 틈을 타 시민 쪽을 돌아본다.) 아직도 저렇게 많이 남았단 말이냐?</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/b75157712ff78c7709a33764128c62d79acff2cabaf259b07ec45487d6d8d32d?t=1783428800433" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">본관이 알려준 대로만 하면 될 것을!</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/0befa374f7e757cd9267fb2ce8026e6b8101d27ad2df33795737448296f92ebd?t=1782231538374" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯어린애도 있는데, 얼굴을 앞세워서 유혹하라고요? (반장은 그렇게까지 말한 적이 없다.)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/b75157712ff78c7709a33764128c62d79acff2cabaf259b07ec45487d6d8d32d?t=1783428800433" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">애나 어른이나 본질은 똑같은 법이다! (美는 나이를 가리지 않고 선호되기에..)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">저 녀석은 자존감이 높은 건지 낮은건지, 나로서는 감을 잡기가 어렵다.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">그냥 네 줏대를 따르도록. 지금 상황에선 전혀 도움 안 되는군.</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/b75157712ff78c7709a33764128c62d79acff2cabaf259b07ec45487d6d8d32d?t=1783428800433" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">해 보지도 않고 내빼기는. 요즘 젊은 것들이란..</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/7e4e7dc550f46e569d5d50bb96a3e3ebfd29893394b820defe6773e81814d3d8?t=1783401176882" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(린토가 뭐라 하건 말건, 이 와중에 웃느라 잠깐 말이 없다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/7e4e7dc550f46e569d5d50bb96a3e3ebfd29893394b820defe6773e81814d3d8?t=1783401176882" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯큼! (목소리를 가다듬고 다시 자세를 갖춘다. 곧 위해의 공격이 올 것이다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">1D3 공격 대상</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-neutral">2</div></div>
+      
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">〈특수 공격(검은 채찍)〉</span><span class="dice-thresholds"><b>75</b>/37/15</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-success">65</div></div>
+      <div class="dice-foot tier-success">보통 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(잠깐, 그 틈을 노리고 검은 채찍이 날아오고 있다⋯⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(어떻게 대응해야 하지? 가장 안정적인 자세를 취해 피해를 흘려보내는 동시에, 빠르게 도약하여 반격을 시도한다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">근접전(격투)</span><span class="dice-thresholds"><b>85</b>/42/17</span></div>
+      <div class="dice-body"><div class="dice-roll-pill tier-success">57</div></div>
+      <div class="dice-foot tier-success">보통 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="위해" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/fd4b628295c82e49de706ed6c53615478fb174c24aed80f71f6044174ae516ce.png" alt="위해" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">위해</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">1D10+1D3</span></div>
+      <div class="dice-body"><div class="dice-faces"><span class="die">7</span><span class="die">3</span><span class="dice-eq">=</span><span class="dice-total-inline">10</span></div></div>
+      
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/27e1e76d18897419fe6373a3281373ea76903a7949b4464b517ac622edf7b4d5?t=1783428800429" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(채찍이 가르는 바람 소리를 듣자면, 이자요이가 받아낼 수 없을 정도의 위력임을 직감한다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/27e1e76d18897419fe6373a3281373ea76903a7949b4464b517ac622edf7b4d5?t=1783428800429" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(순간적으로 도약해 이자요이의 앞을 몸으로 가로막는다.)</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start gm-run-end">
+  <div class="gmscript-box">고우마 린토, 위해의 공격을 대신 받는다. HP-5.</div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(힘이 모자랐다고 느끼는 순간 눈앞에 확 끼어드는 인영이 있다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯반장님!</div>
+  </div>
+</div><div class="entry system"><div class="system-box">[ 고우마 린토 ] HP : 19 → 14</div></div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">.... (맞은 부위를 추스르고 몸 일으킨다.) 자네, 아니, 이 바보같은 녀석..</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">정도를 봐가면서 맞붙으라고! (이어지는 일갈.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">죄, 죄송해요⋯⋯ 이 정도는 될 줄 알고⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(짐이 되고 싶지 않았는데, 역시 지금 이대로 상대하기엔 무리인가.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(손으로 반장이 방금 입은 상처를 부드럽게 쓴다. 묻어나는 것이 있다. ⋯그래, 당신도 괜찮을 리가 없다.) 앞으론 알아서 잘 피할 테니까.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">이렇게 막아주지 마세요. ⋯부탁이에요.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">막는 게 보기 싫다면 알아서 피하라고. 방금 건.. (열차에 뛰어든 승객들처럼, 조각이 난 이자요이의 꼴을 잠시 상상했다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(으휴..) 늘 느끼지만, 참 신경을 많이 써야 하는 사람이야. 자네는.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(키리시마에게 한 차례 더 달려든다. 이번엔 팔 관절보다 더 아래, 복부에 손을 꽂아 넣었다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="dice-card">
+      <div class="dice-head"><span class="dice-icon">🎲</span><span class="dice-label">근력</span><span class="dice-thresholds"><b>100</b>/50/20</span><span class="dice-badge">보너스 +1</span></div>
+      <div class="dice-body"><div class="dice-faces"><div class="dice-roll-pill tier-extreme">7</div><div class="dice-roll-pill tier-neutral">97</div></div></div>
+      <div class="dice-foot tier-extreme">대단한 성공</div>
+    </div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(그 과정에서 손에 잡히는 것을 쥐어내 파괴한다. 만들어진 구멍에 손을 쑤셔넣고, 짓뭉개어 끄집어내기를 몇 번 더 반복했다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(마디마디 끊어내, 몸을 일으키면 쏟아져 더 이상 활동할 수 없게끔.)</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">당신의 공격은 위해의 급소를 정확히 맞춘다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">검은 갑각이 찢어지고, 살결 사이로 기계 골격이 드러난 위해는 몸의 균형을 잃고 땅에 쓰러질 듯이 보인다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">하지만 그 순간, 간신히 버틴 위해는 천천히 자세를 바로잡는다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">그는 린토를 향해 한 걸음, 또 한 걸음 다가온다.</div>
+</div>
+<div class="entry pc thread-down" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">고우마, 위해는 코어가 되는 심장이 계속 움직이는 한 쓰러지지 않아!</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="정신 생명체" data-color="rgb(224, 224, 224)" style="--accent:rgb(224, 224, 224)">
+  <div class="avatar-wrap"><div class="avatar-fallback" style="--accent:rgb(224, 224, 224)"></div></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(224, 224, 224)">정신 생명체</span></div>
+    <div class="plog-content">네 권총으로 저 녀석의 심장을 쏴버려!</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/27e1e76d18897419fe6373a3281373ea76903a7949b4464b517ac622edf7b4d5?t=1783428800429" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">...... 심장.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/27e1e76d18897419fe6373a3281373ea76903a7949b4464b517ac622edf7b4d5?t=1783428800429" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(총기화된 손을 들어올린다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(저 지경이 되어서도 일어난다고? 공포에 질려 다가온다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/69aeb3142ac8c8d8bb84ee29f8958cbb5cb8c769ad74d6663ea27a869d033c9b?t=1782231527180" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯반장님.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(조준점이 약하게 떨린다.) 나는 또, 남의 공작에 의해 이 손으로.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">똑같은 방법으로, 너를... ...</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">반장님, 눈앞을 똑바로 보세요⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">키리시마 씨도 이런 모습이 되어, 사람들을 위험에 빠뜨리고, 반장님을 죽음의 위기에 몰아넣기를 바라지는⋯⋯, 않으셨을 거예요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(여전히 따스한 체온을 간직한 손이, 총기화된 손을 감싸쥔다.) 망설여서는, 맡은 일을 해낼 수 없다고⋯. 말씀하셨잖아요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">제가 반장님을 죽여야만 돌파구를 찾을 수 있었던 것처럼⋯⋯, 오직 지금 이 방법으로만, 키리시마 씨에게 끝을 드릴 수 있어요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">그러니까⋯⋯. (눈을 지그시 감았다 뜬다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(내리깔린 눈이 천천히 그를 향해 올라온다.) 지금의 그에겐 죽음이 곧 돌파구.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">구원에 필적하는 가치⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(... 라고, 팔자 좋게 합리화해야만 하는 이 상황이 싫다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(다만 이것은 정의의 성질을 띤 임무인 것이다. 자살자들의 생을 내 손으로 앗아갔던 것처럼, 이번에도.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">... 이자요이 군.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">공범이 되어주지 않겠나.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">받쳐주기만 하면 돼. 조금, 손이 떨리니까⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯. (사실은 알고 있다. 정의나 구원이라는 이름을 붙일 수는 있겠지만, 행위의 본질은 변하지 않는다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(나는 분명 이렇지 않았었다. 내가 언제부터 '살인'이라는 행동에 이렇게 무디게 되었지?⋯⋯.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(하지만 그런 것보다도. 이것이 옳은지, 더 나은 선택이 있는지를 전부 떠나서, 그냥.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(당신과 함께 걷고 싶었다. 그 길에 무엇이 있더라도.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯네. (온기 어린 목소리가 돌아온다. 지금 당신을 붙잡지 않는다면 그야말로 모래처럼 무너져버릴 것 같아서.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">제가 같이 있어요. ⋯⋯이번에는 저도 함께할게요.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(적어도 지금의 사사키 이자요이는, 그것을 감당할 수 있으리라 믿어 의심치 않았다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(당신의 상체를 감싸안듯 당신의 뒤에 선다. 팔을 뻗어 차가운 무기질의 손을 단단히 붙든다.) 이제 더는 떨리지 않을 테니까.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">같은 죄를 짊어질 저를 믿고, 부디.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/50467b206e69c400be59a3a22ec8d1d6f03ba507eeb68fe18d8dd68706295218?t=1783428800699" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(떨리는 숨을 한 차례 깊게 뱉어내면, 심박이 조금이나마 안정된다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">이제 자네도, 곱게 저승을 지나긴 글렀군.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯하하.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">지옥이 무서워서라도, 오래도록 살아야 하겠네요⋯. 저도, 고우마 씨도.</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(후후.) 얼마나 오래 살 속셈이지? 언제 죽을지도 모르는 판국에.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">어찌됐건 자네에겐 좋은 일 아닌가? 죽어서도 마주칠 수 있게 되었는데.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/ad3dd63374a8e327df5763a3b9dbf2ef3e56800dceb9baf86ded4889074a2d86?t=1783428800421" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">같은 형량은 아니겠지만 말야.. (그리 우스갯소리를 내뱉고, 다시 키리시마의 심부를 향해 조준한다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">⋯⋯. (당신의 등 뒤에 선 사사키 이자요이에게서는 한동안 낮은 웃음소리만이 흩어졌다.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">가급적이면 고우마 씨랑 동시에 죽을 수 있으면 좋겠네요. 그래야 지옥 가는 길도 같이 걷죠⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(철컥 소리가 들리면, 숨을 조용히 뱉는다. 속으로 인사를 건넸다. 안녕⋯⋯, 키리시마 씨.)</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="사사키 이자요이" data-color="rgb(159, 0, 0)" style="--accent:rgb(159, 0, 0)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/lhAkom93dLhieUyL3P2oxwbGlN32/files/449492b22c8d639685119b83adbfb6b480967680a2aaf0c3be9f10fdde027ab5?t=1783401177157" alt="사사키 이자요이" style="--accent:rgb(159, 0, 0)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(159, 0, 0)">사사키 이자요이</span></div>
+    <div class="plog-content">(그동안 고맙고 또 미안했어요.)</div>
+  </div>
+</div>
+<div class="entry pc" data-speaker="고우마 린토" data-color="rgb(0, 21, 143)" style="--accent:rgb(0, 21, 143)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/users/rmxT5sSdXqhGjy3z9yxQMbfhM192/files/b32f8aa736c8fb47a2e1955166ad92820c4ac4ba6d0d97a3adb6de6c2774f343?t=1783428800685" alt="고우마 린토" style="--accent:rgb(0, 21, 143)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(0, 21, 143)">고우마 린토</span></div>
+    <div class="plog-content">(이자요이에 의해 떨림이 사라진 총구는, 그대로 탄환을 발사한다.)</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">【35：키리시마 린도】</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">린토가 발사한 탄환은 위해의 심장에 명중한다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">이미 완전히 짓뭉개지고, 마디가 끊어진 몸은 실 끊긴 인형처럼 흐트러진다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">검은 갑각이 녹아내리듯 액체처럼 흐르기 시작하고 그 아래에서 키리시마 린도의 모습이 드러난다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">가슴에 뚫린 구멍에서는 검은 액체가 끊임없이 흘러나오고 있다。</div>
+</div>
+<div class="entry pc thread-down" data-speaker="키리시마 린도" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/58f41d4724aea13e304683a96503c1e910d94cedf8ae6e3b49d7bd733ffa6016.png" alt="키리시마 린도" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">키리시마 린도</span></div>
+    <div class="plog-content">고우마⋯님⋯⋯</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="키리시마 린도" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/58f41d4724aea13e304683a96503c1e910d94cedf8ae6e3b49d7bd733ffa6016.png" alt="키리시마 린도" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">키리시마 린도</span></div>
+    <div class="plog-content">내가, 지켜드려야 했는데⋯⋯</div>
+  </div>
+</div>
+<div class="entry pc thread-up thread-down" data-speaker="키리시마 린도" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/58f41d4724aea13e304683a96503c1e910d94cedf8ae6e3b49d7bd733ffa6016.png" alt="키리시마 린도" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">키리시마 린도</span></div>
+    <div class="plog-content">모두⋯모두⋯ 내가, 내가 죽여버렸어⋯⋯.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="키리시마 린도" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/58f41d4724aea13e304683a96503c1e910d94cedf8ae6e3b49d7bd733ffa6016.png" alt="키리시마 린도" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">키리시마 린도</span></div>
+    <div class="plog-content">나, 니라사와를⋯ 어떤 얼굴로 만나야⋯⋯</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">린도가 손바닥을 바닥에 대고, 린토를 향해 움직이기 시작한다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">제 몸에서 나온 피로 물든 키리시마 린도의 손이, 린토의 손바닥을 꼭 쥔다.</div>
+</div>
+<div class="entry pc thread-down" data-speaker="키리시마 린도" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/58f41d4724aea13e304683a96503c1e910d94cedf8ae6e3b49d7bd733ffa6016.png" alt="키리시마 린도" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">키리시마 린도</span></div>
+    <div class="plog-content">고우마 님⋯ 2년 전 사건은 아직⋯ 끝나지 않았습니⋯⋯다.</div>
+  </div>
+</div>
+<div class="entry pc thread-up" data-speaker="키리시마 린도" data-color="rgb(136, 136, 136)" style="--accent:rgb(136, 136, 136)">
+  <div class="avatar-wrap"><img class="avatar" loading="lazy" src="https://storage.ccfolia-cdn.net/shared/58f41d4724aea13e304683a96503c1e910d94cedf8ae6e3b49d7bd733ffa6016.png" alt="키리시마 린도" style="--accent:rgb(136, 136, 136)"></div>
+  <div class="msg">
+    <div class="meta"><span class="plog-name" style="--accent:rgb(136, 136, 136)">키리시마 린도</span></div>
+    <div class="plog-content">그 사건의⋯ 범인은⋯⋯</div>
+  </div>
+</div>
+<div class="entry gmscript gm-run-start">
+  <div class="gmscript-box">키리시마 린도는 필사적으로 입을 움직이려 한다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">하지만 그것이 소리로 당신의 귀에 닿는 일은 없었다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">그의 눈동자는 빛을 잃고, 린토의 손을 쥐고 있던 손은 힘없이 바닥으로 떨어진다.</div>
+</div>
+<div class="entry gmscript">
+  <div class="gmscript-box">그 이후, 키리시마 린도가 움직이는 일은 없었다.</div>
+</div>
+<div class="entry gmscript gm-run-end">
+  <div class="gmscript-box">그의 손에서 전해진 온기— 그것만이 지금도 린토의 손바닥에 남아 있다.</div>
 </div></main>
 </div>
 <footer class="log-footer">— END OF LOG —</footer>
